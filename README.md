@@ -1,3 +1,4 @@
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/bb30/learn-duel.png?columns=all)](https://waffle.io/bb30/learn-duel?utm_source=badge)
 # Learn Duel [![Build Status](https://travis-ci.org/DonatJR/learn-duel.svg?branch=develop)](https://travis-ci.org/DonatJR/learn-duel) [![Coverage Status](https://coveralls.io/repos/github/DonatJR/learn-duel/badge.svg?branch=develop)](https://coveralls.io/github/DonatJR/learn-duel?branch=develop)
 
 ## About
