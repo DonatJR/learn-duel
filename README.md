@@ -1,4 +1,13 @@
-# Learn Duel [![Build Status](https://travis-ci.org/DonatJR/learn-duel.svg?branch=develop)](https://travis-ci.org/DonatJR/learn-duel) [![Coverage Status](https://coveralls.io/repos/github/DonatJR/learn-duel/badge.svg?branch=develop)](https://coveralls.io/github/DonatJR/learn-duel?branch=develop)
+# Learn Duel
+
+## Build status  
+Travis:
+* develop [![Build Status](https://travis-ci.org/bb30/learn-duel.svg?branch=develop)](https://travis-ci.org/bb30/learn-duel)
+* master [![Build Status](https://travis-ci.org/bb30/learn-duel.svg?branch=master)](https://travis-ci.org/bb30/learn-duel)
+
+codecov:
+* develop [![codecov](https://codecov.io/gh/bb30/learn-duel/branch/develop/graph/badge.svg)](https://codecov.io/gh/bb30/learn-duel)
+* master [![codecov](https://codecov.io/gh/bb30/learn-duel/branch/master/graph/badge.svg)](https://codecov.io/gh/bb30/learn-duel)
 
 ## About
 Learn Duel is based on QuizDuel and works in a similar fashion, but with a new twist:
